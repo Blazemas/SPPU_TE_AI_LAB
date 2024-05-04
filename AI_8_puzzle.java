@@ -146,7 +146,7 @@ public class AI_8_puzzle
 			}
 		}
 	}
-	
+	//O(b^d): Its Branch and Bound method
 	//Driver Code
 	public static void main (String[] args)
 	{
