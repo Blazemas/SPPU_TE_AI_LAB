@@ -11,3 +11,5 @@ N = 3
   
 # A, C, B are the name of rods 
 TowerOfHanoi(N, 'A', 'C', 'B') 
+
+#TIme complexity: O(2^n)
