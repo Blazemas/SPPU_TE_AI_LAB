@@ -1,6 +1,6 @@
 import sys
 
-def nearest_neighbor(graph, source):
+def nearest_neighbor(graph, source): #O(n^2)
   
   n = len(graph)
   visited = [False] * n
